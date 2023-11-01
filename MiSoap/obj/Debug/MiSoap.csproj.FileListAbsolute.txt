@@ -1,0 +1,7 @@
+C:\Users\Julio\source\repos\MiSoap\bin\MiSoap.dll.config
+C:\Users\Julio\source\repos\MiSoap\bin\MiSoap.dll
+C:\Users\Julio\source\repos\MiSoap\bin\MiSoap.pdb
+C:\Users\Julio\source\repos\MiSoap\obj\Debug\MiSoap.csproj.AssemblyReference.cache
+C:\Users\Julio\source\repos\MiSoap\obj\Debug\MiSoap.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\MiSoap\obj\Debug\MiSoap.dll
+C:\Users\Julio\source\repos\MiSoap\obj\Debug\MiSoap.pdb
